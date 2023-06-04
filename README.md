@@ -8,6 +8,7 @@ Nesse desafio, eu recriei uma aplicação, a partir de um layout, para treinar o
 
 O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) 
 
+link consluido no git: [**link**](https://nathannievas.github.io/recriandolayoutaula2explorer/) 
 
 ## Quais arquivos devo criar na minha aplicação?
 
